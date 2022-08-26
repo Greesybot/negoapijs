@@ -1,2 +1,2 @@
 # negoapijs
-A Usefull Network Module
+An Usefull Network Module
